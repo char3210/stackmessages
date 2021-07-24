@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.char321.stackmessages.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+  ],
+  "client": [
+    "ChatMixin",
+    "ChatAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
