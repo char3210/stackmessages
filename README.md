@@ -1,6 +1,6 @@
 # stackmessages
 
-fabric mod that stacks messages
+fabric mod that stacks messages  <br />
 example in plain text because i'm lazy:
 
 before:
